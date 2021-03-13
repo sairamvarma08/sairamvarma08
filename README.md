@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sairamvarma08
 - 👀 I’m interested in ...Learning NEW TECH
 - 🌱 I’m currently learning ...DS and ALGO
-- 💞️ I’m looking to collaborate on ...FreeLancing
 - 📫 How to reach me ...sairamvarma08@gmail.com
 
 <!---
